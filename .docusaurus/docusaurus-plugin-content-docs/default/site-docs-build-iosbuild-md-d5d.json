@@ -1,0 +1,23 @@
+{
+  "unversionedId": "build/iosbuild",
+  "id": "build/iosbuild",
+  "isDocsHomePage": false,
+  "title": "iosbuild",
+  "description": "",
+  "source": "@site/docs/build/iosbuild.md",
+  "sourceDirName": "build",
+  "slug": "/build/iosbuild",
+  "permalink": "/docs/build/iosbuild",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/build/iosbuild.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "androidbuild",
+    "permalink": "/docs/build/androidbuild"
+  },
+  "next": {
+    "title": "interpreters",
+    "permalink": "/docs/modelprep/interpreters"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "building/androidbuild",
+  "id": "building/androidbuild",
+  "isDocsHomePage": false,
+  "title": "Building PyTorch Android from Source",
+  "description": "In some cases you might want to use a local build of PyTorch android, for example you may build custom LibTorch binary with another set of operators or to make local changes, or try out the latest PyTorch code.",
+  "source": "@site/docs/building/androidbuild.md",
+  "sourceDirName": "building",
+  "slug": "/building/androidbuild",
+  "permalink": "/docs/building/androidbuild",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/building/androidbuild.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quantization",
+    "permalink": "/docs/modelprep/quantization"
+  },
+  "next": {
+    "title": "Build PyTorch iOS Libraries from Source",
+    "permalink": "/docs/building/iosbuild"
+  }
+}

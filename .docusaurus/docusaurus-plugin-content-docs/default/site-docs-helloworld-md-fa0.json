@@ -1,0 +1,27 @@
+{
+  "unversionedId": "helloworld",
+  "id": "helloworld",
+  "isDocsHomePage": false,
+  "title": "Hello World!",
+  "description": "Quickstart with a HelloWorld Example",
+  "source": "@site/docs/helloworld.md",
+  "sourceDirName": ".",
+  "slug": "/helloworld",
+  "permalink": "/docs/helloworld",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/helloworld.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "helloworld",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PyTorch Mobile",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Lite and Full Jit Interpreters",
+    "permalink": "/docs/modelprep/interpreters"
+  }
+}

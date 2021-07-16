@@ -1,0 +1,23 @@
+{
+  "unversionedId": "modelprep copy/optimization",
+  "id": "modelprep copy/optimization",
+  "isDocsHomePage": false,
+  "title": "optimization",
+  "description": "",
+  "source": "@site/docs/modelprep copy/optimization.md",
+  "sourceDirName": "modelprep copy",
+  "slug": "/modelprep copy/optimization",
+  "permalink": "/docs/modelprep copy/optimization",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/modelprep copy/optimization.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "interpreters",
+    "permalink": "/docs/modelprep copy/interpreters"
+  },
+  "next": {
+    "title": "quantization",
+    "permalink": "/docs/modelprep copy/quantization"
+  }
+}

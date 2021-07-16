@@ -1,0 +1,23 @@
+{
+  "unversionedId": "build/androidbuild",
+  "id": "build/androidbuild",
+  "isDocsHomePage": false,
+  "title": "androidbuild",
+  "description": "",
+  "source": "@site/docs/build/androidbuild.md",
+  "sourceDirName": "build",
+  "slug": "/build/androidbuild",
+  "permalink": "/docs/build/androidbuild",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/build/androidbuild.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Android",
+    "permalink": "/docs/android"
+  },
+  "next": {
+    "title": "iosbuild",
+    "permalink": "/docs/build/iosbuild"
+  }
+}

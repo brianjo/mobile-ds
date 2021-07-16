@@ -1,0 +1,23 @@
+{
+  "unversionedId": "modelprep/quantization",
+  "id": "modelprep/quantization",
+  "isDocsHomePage": false,
+  "title": "Quantization",
+  "description": "This recipe demonstrates how to quantize a PyTorch model so it can run",
+  "source": "@site/docs/modelprep/quantization.md",
+  "sourceDirName": "modelprep",
+  "slug": "/modelprep/quantization",
+  "permalink": "/docs/modelprep/quantization",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/modelprep/quantization.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Script and Optimize for Mobile",
+    "permalink": "/docs/modelprep/optimization"
+  },
+  "next": {
+    "title": "Building PyTorch Android from Source",
+    "permalink": "/docs/building/androidbuild"
+  }
+}

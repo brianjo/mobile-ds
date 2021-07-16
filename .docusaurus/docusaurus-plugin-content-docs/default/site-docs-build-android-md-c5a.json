@@ -1,0 +1,23 @@
+{
+  "unversionedId": "build/android",
+  "id": "build/android",
+  "isDocsHomePage": false,
+  "title": "android",
+  "description": "",
+  "source": "@site/docs/build/android.md",
+  "sourceDirName": "build",
+  "slug": "/build/android",
+  "permalink": "/docs/build/android",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/build/android.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Android",
+    "permalink": "/docs/android"
+  },
+  "next": {
+    "title": "ios",
+    "permalink": "/docs/build/ios"
+  }
+}

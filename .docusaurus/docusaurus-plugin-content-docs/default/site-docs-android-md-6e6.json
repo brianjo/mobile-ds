@@ -1,0 +1,27 @@
+{
+  "unversionedId": "android",
+  "id": "android",
+  "isDocsHomePage": false,
+  "title": "Android",
+  "description": "Quickstart with a HelloWorld Example",
+  "source": "@site/docs/android.md",
+  "sourceDirName": ".",
+  "slug": "/android",
+  "permalink": "/docs/android",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/android.md",
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "android",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Build PyTorch iOS Libraries from Source",
+    "permalink": "/docs/building/iosbuild"
+  },
+  "next": {
+    "title": "iOS",
+    "permalink": "/docs/ios"
+  }
+}

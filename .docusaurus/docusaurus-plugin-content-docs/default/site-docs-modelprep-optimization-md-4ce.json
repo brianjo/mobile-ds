@@ -1,0 +1,23 @@
+{
+  "unversionedId": "modelprep/optimization",
+  "id": "modelprep/optimization",
+  "isDocsHomePage": false,
+  "title": "Script and Optimize for Mobile",
+  "description": "This recipe demonstrates how to convert a PyTorch model to TorchScript",
+  "source": "@site/docs/modelprep/optimization.md",
+  "sourceDirName": "modelprep",
+  "slug": "/modelprep/optimization",
+  "permalink": "/docs/modelprep/optimization",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/modelprep/optimization.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lite and Full Jit Interpreters",
+    "permalink": "/docs/modelprep/interpreters"
+  },
+  "next": {
+    "title": "Quantization",
+    "permalink": "/docs/modelprep/quantization"
+  }
+}

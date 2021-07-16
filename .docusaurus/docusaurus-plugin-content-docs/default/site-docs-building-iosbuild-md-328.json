@@ -1,0 +1,23 @@
+{
+  "unversionedId": "building/iosbuild",
+  "id": "building/iosbuild",
+  "isDocsHomePage": false,
+  "title": "Build PyTorch iOS Libraries from Source",
+  "description": "To track the latest updates for iOS, you can build the PyTorch iOS libraries from the source code.",
+  "source": "@site/docs/building/iosbuild.md",
+  "sourceDirName": "building",
+  "slug": "/building/iosbuild",
+  "permalink": "/docs/building/iosbuild",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/building/iosbuild.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Building PyTorch Android from Source",
+    "permalink": "/docs/building/androidbuild"
+  },
+  "next": {
+    "title": "Android",
+    "permalink": "/docs/android"
+  }
+}

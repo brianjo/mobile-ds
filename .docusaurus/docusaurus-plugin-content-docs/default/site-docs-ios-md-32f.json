@@ -1,0 +1,23 @@
+{
+  "unversionedId": "ios",
+  "id": "ios",
+  "isDocsHomePage": false,
+  "title": "iOS",
+  "description": "To get started with PyTorch on iOS, we recommend exploring the following HelloWorld.",
+  "source": "@site/docs/ios.md",
+  "sourceDirName": ".",
+  "slug": "/ios",
+  "permalink": "/docs/ios",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/ios.md",
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "ios",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Android",
+    "permalink": "/docs/android"
+  }
+}

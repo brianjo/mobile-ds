@@ -1,0 +1,23 @@
+{
+  "unversionedId": "build/optimization",
+  "id": "build/optimization",
+  "isDocsHomePage": false,
+  "title": "optimization",
+  "description": "",
+  "source": "@site/docs/build/optimization.md",
+  "sourceDirName": "build",
+  "slug": "/build/optimization",
+  "permalink": "/docs/build/optimization",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/build/optimization.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "android",
+    "permalink": "/docs/build/android"
+  },
+  "next": {
+    "title": "quantization",
+    "permalink": "/docs/build/quantization"
+  }
+}
