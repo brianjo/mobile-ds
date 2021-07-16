@@ -6,7 +6,7 @@ module.exports = {
   title: 'PyTorch Mobile',
   tagline: 'AI processing everywhere...',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/mobile-ds/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
