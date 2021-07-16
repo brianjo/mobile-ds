@@ -1,2 +1,5 @@
 node_modules/.cache/
 build/
+.DS_Store
+.docusaurus/
+node_modules/
