@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'PyTorch Mobile',
   tagline: 'AI processing everywhere...',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://brianjo.github.com',
   baseUrl: '/mobile-ds/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
@@ -32,7 +32,7 @@ module.exports = {
           label: 'Documentation',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/pytorch/pytorch',
           label: 'GitHub',
           position: 'right',
         },
@@ -72,7 +72,7 @@ module.exports = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/pytorch/pytorch',
             },
           ],
         },
