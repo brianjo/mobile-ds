@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'PyTorch Ecosystem',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('../../static/img/pt-eco.svg').default,
     description: (
       <>
         Seamlessly go from training a model to deploying it, while staying entirely within the PyTorch ecosystem.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'End-to-End Workflow ',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('../../static/img/pt-workflow.svg').default,
     description: (
       <>
         PyTorch Mobile provides an end-to-end workflow that simplifies the research to production environment for mobile devices.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Privacy by Design',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('../../static/img/pt-secure.svg').default,
     description: (
       <>
         PyTorch Mobile paves the way for privacy-preserving features via federated learning techniques.
