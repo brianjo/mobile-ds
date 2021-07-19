@@ -1,9 +1,12 @@
 ---
 id: ios
-sidebar_position: 6
+sidebar_position: 12
 ---
 
 # iOS
+
+(This file will be deleted)
+
 
 To get started with PyTorch on iOS, we recommend exploring the following [HelloWorld](https://github.com/pytorch/ios-demo-app/tree/master/HelloWorld).
 

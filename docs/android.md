@@ -1,9 +1,11 @@
 ---
 id: android
-sidebar_position: 5
+sidebar_position: 11
 ---
 
 # Android
+
+(This file will be deleted)
 
 ## Quickstart with a HelloWorld Example
 

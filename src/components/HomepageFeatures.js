@@ -4,32 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'PyTorch Ecosystem',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Seamlessly go from training a model to deploying it, while staying entirely within the PyTorch ecosystem.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'End-to-End Workflow ',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        PyTorch Mobile provides an end-to-end workflow that simplifies the research to production environment for mobile devices.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Privacy by Design',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        PyTorch Mobile paves the way for privacy-preserving features via federated learning techniques.
       </>
     ),
   },
